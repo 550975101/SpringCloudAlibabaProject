@@ -2,6 +2,7 @@ package com.zhx.contentcenter.service.content;
 
 import com.zhx.contentcenter.dao.content.ShareMapper;
 import com.zhx.contentcenter.domain.entity.content.Share;
+import com.zhx.contentcenter.domain.dto.user.UserDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
@@ -13,12 +14,20 @@ public class ShareService {
     @Autowired
     private ShareMapper shareMapper;
 
+    @Autowired
+    private RestTemplate restTemplate;
+
     public Share findById(Integer id) {
         //获取分享详情
         Share share = shareMapper.selectByPrimaryKey(id);
         //发布人id
         Integer userId = share.getUserId();
+//        RestTemplate restTemplate = new RestTemplate();
         //怎么样调用用户微服务的 users/id
+        UserDTO userDTO = restTemplate.getForObject("http://localhost:8080/users/{id}", UserDTO.class, 1);
+        //消息的装配
+
+
         return null;
     }
 

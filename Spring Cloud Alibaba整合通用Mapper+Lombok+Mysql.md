@@ -28,9 +28,9 @@
 
 ### 一、使用Spring Initializr快速创建Spring Boot应用
 
-![](./images/20190707163151839.png)
+![](z_images/20190707163151839.png)
 
-![](./images/QQ图片20200519201650.png)
+![](z_images/QQ图片20200519201650.png)
 
 ## 二、相关依赖
 
@@ -263,7 +263,7 @@ COMMENT = '积分变更记录表';
 
 #### 2.7. 双击运行：
 
-![](./images/20190707164158768.png)
+![](z_images/20190707164158768.png)
 
 
 
@@ -420,7 +420,7 @@ public class TestContoller {
 
 #### 六、调用服务截图
 
-![](./images/ciudsbvibfd.png)
+![](z_images/ciudsbvibfd.png)
 
 
 

@@ -2,6 +2,7 @@
 
 文章目录
 一、使用Spring Initializr快速创建Spring Boot应用
+
 二、相关依赖
 	2.1. 添加依赖
 	2.2. mybatis添加插件
@@ -18,13 +19,19 @@
 	2.5. 配置SpringBoot配置文件
 	2.6. 运行数据库脚本
 	2.7. 双击运行：
+
 三、代码生成效果
 	3.1. 实体类效果：
 	3.2. mapper接口效果：
 	3.3. mapper映射文件效果：
+
 四、启动类添加注解
+
 五、测试
+
 六、调用服务截图
+
+七、将内容中心content表用通用mapper插件生成实体类、接口以及xml
 
 ### 一、使用Spring Initializr快速创建Spring Boot应用
 
@@ -422,18 +429,9 @@ public class TestContoller {
 
 ![](z_images/ciudsbvibfd.png)
 
+#### 七、将内容中心content表用通用mapper插件生成实体类、接口以及xml
 
+![](./z_images/QQ图片20200519205933.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
+![](./z_images/QQ图片20200519210044.png)
 

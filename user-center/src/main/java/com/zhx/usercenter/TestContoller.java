@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.Date;
+import java.util.List;
 
 /**
  * 测试mybatis是否好使
@@ -18,14 +19,15 @@ public class TestContoller {
     private UserMapper userMapper;
 
     @GetMapping("/test")
-    public User testInsert() {
+    public List<User>  testInsert() {
         User user = new User();
         user.setAvatarUrl("xxxxx");
         user.setBonus(100);
         user.setCreateTime(new Date());
         user.setUpdateTime(new Date());
         this.userMapper.insertSelective(user);
-        return user;
+        List<User> users = this.userMapper.selectAll();
+        return users;
     }
 
 }

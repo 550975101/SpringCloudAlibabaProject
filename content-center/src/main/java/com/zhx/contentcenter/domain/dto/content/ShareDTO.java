@@ -1,13 +1,16 @@
 package com.zhx.contentcenter.domain.dto.content;
 
+import lombok.AllArgsConstructor;
+import lombok.Builder;
 import lombok.Data;
+import lombok.NoArgsConstructor;
 
-import javax.persistence.Column;
-import javax.persistence.GeneratedValue;
-import javax.persistence.Id;
 import java.util.Date;
 
 @Data
+@AllArgsConstructor
+@NoArgsConstructor
+@Builder
 public class ShareDTO {
 
     /**
@@ -85,4 +88,9 @@ public class ShareDTO {
      * 审核不通过原因
      */
     private String reason;
+
+    /**
+     * 发布人
+     */
+    private String wxNickname;
 }

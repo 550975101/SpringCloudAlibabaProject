@@ -46,6 +46,7 @@ public class TestContoller {
     @GetMapping("/test2")
     public List<ServiceInstance> discoveryClient() {
         //查詢指定服務的所有实例的信息
+        //通用组件 不管是zookeeper 还是euraka 还是nacous  都可以使用这个接口  是springCloud提供
         return this.discoveryClient.getInstances("user-center");
 
     }

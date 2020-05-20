@@ -6,8 +6,10 @@ import com.zhx.contentcenter.domain.entity.content.Share;
 import com.zhx.contentcenter.domain.dto.user.UserDTO;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.cloud.client.discovery.DiscoveryClient;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
+import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.client.RestTemplate;
 
 @Service
@@ -33,6 +35,8 @@ public class ShareService {
         shareDTO.setWxNickname(userDTO.getWxNickname());
         return shareDTO;
     }
+
+
 
     public static void main(String[] args) {
         RestTemplate restTemplate = new RestTemplate();

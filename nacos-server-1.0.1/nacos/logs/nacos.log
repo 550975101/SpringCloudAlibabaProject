@@ -1,0 +1,116 @@
+2020-05-20 21:27:16,284 INFO Starting Nacos v1.0.1 on DESKTOP-6HLC1H6 with PID 9456 (D:\JetBrains\SpringCloudAlibabaProject\nacos-server-1.0.1\nacos\target\nacos-server.jar started by 封心 in D:\JetBrains\SpringCloudAlibabaProject\nacos-server-1.0.1\nacos\bin)
+
+2020-05-20 21:27:16,289 INFO The following profiles are active: standalone
+
+2020-05-20 21:27:21,773 INFO Bean 'org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration' of type [org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration$$EnhancerBySpringCGLIB$$ce82b35a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-05-20 21:27:21,987 INFO Bean 'objectPostProcessor' of type [org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-05-20 21:27:21,993 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@4b741d6d' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-05-20 21:27:21,997 INFO Bean 'org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration' of type [org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$f357560c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-05-20 21:27:22,013 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-05-20 21:27:23,976 INFO Tomcat initialized with port(s): 8848 (http)
+
+2020-05-20 21:27:24,091 INFO Starting service [Tomcat]
+
+2020-05-20 21:27:24,091 INFO Starting Servlet Engine: Apache Tomcat/9.0.13
+
+2020-05-20 21:27:24,127 INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\java\jdk-1.8\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\java\jdk-1.8\bin;D:\java\jre-1.8\bin;D:\python\python3.6;D:\python\python3.6\Scripts;D:\JetBrains\apache-maven-3.3.9\bin;D:\Server\MySQL\MySQL Server 5.0\mysql-5.7.21-winx64\bin;D:\NodeJS\node_global;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;D:\Server\MySQL\MySQL Server 5.0\bin;C:\WINDOWS\System32\OpenSSH\;D:\VM\crt\;D:\xp_oracle\instantclient_12_1\NETWORK\ADMIN\tnsnames.ora;D:\subVersion\VisualSVN Server\bin;D:\subVersion\TortoiseSVN\bin;D:\Git\TortoiseGit\bin;D:\NodeJS\;D:\Git\Git\cmd;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;D:\VM\SSH;C:\Users\55097\AppData\Local\Microsoft\WindowsApps;D:\Microsoft VS Code\bin;C:\Users\55097\AppData\Roaming\npm;C:\Users\55097\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Bandizip\;.]
+
+2020-05-20 21:27:24,481 INFO Initializing Spring embedded WebApplicationContext
+
+2020-05-20 21:27:24,481 INFO Root WebApplicationContext: initialization completed in 7950 ms
+
+2020-05-20 21:27:43,077 INFO Use Mysql as the driver
+
+2020-05-20 21:27:44,133 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2020-05-20 21:27:44,784 INFO Adding welcome page: class path resource [static/index.html]
+
+2020-05-20 21:27:45,716 INFO Creating filter chain: Ant [pattern='/'], []
+
+2020-05-20 21:27:45,717 INFO Creating filter chain: Ant [pattern='/**/*.css'], []
+
+2020-05-20 21:27:45,717 INFO Creating filter chain: Ant [pattern='/**/*.js'], []
+
+2020-05-20 21:27:45,718 INFO Creating filter chain: Ant [pattern='/**/*.html'], []
+
+2020-05-20 21:27:45,720 INFO Creating filter chain: Ant [pattern='/**/*.map'], []
+
+2020-05-20 21:27:45,721 INFO Creating filter chain: Ant [pattern='/**/*.svg'], []
+
+2020-05-20 21:27:45,721 INFO Creating filter chain: Ant [pattern='/**/*.png'], []
+
+2020-05-20 21:27:45,721 INFO Creating filter chain: Ant [pattern='/**/*.ico'], []
+
+2020-05-20 21:27:45,721 INFO Creating filter chain: Ant [pattern='/console-fe/public/**'], []
+
+2020-05-20 21:27:45,722 INFO Creating filter chain: Ant [pattern='/v1/auth/login'], []
+
+2020-05-20 21:27:45,723 INFO Creating filter chain: Ant [pattern='/v1/console/health/**'], []
+
+2020-05-20 21:27:45,723 INFO Creating filter chain: Ant [pattern='/v1/cs/**'], []
+
+2020-05-20 21:27:45,723 INFO Creating filter chain: Ant [pattern='/v1/ns/**'], []
+
+2020-05-20 21:27:45,723 INFO Creating filter chain: Ant [pattern='/v1/cmdb/**'], []
+
+2020-05-20 21:27:45,724 INFO Creating filter chain: Ant [pattern='/actuator/**'], []
+
+2020-05-20 21:27:45,724 INFO Creating filter chain: Ant [pattern='/v1/console/server/**'], []
+
+2020-05-20 21:27:45,785 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@34a1d21f, org.springframework.security.web.context.SecurityContextPersistenceFilter@1de5f0ef, org.springframework.security.web.header.HeaderWriterFilter@3e8f7922, org.springframework.security.web.authentication.logout.LogoutFilter@3ce3db41, com.alibaba.nacos.console.filter.JwtAuthenticationTokenFilter@58bf8650, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@28d6290, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@38f57b3d, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@73c60324, org.springframework.security.web.session.SessionManagementFilter@50eca7c6, org.springframework.security.web.access.ExceptionTranslationFilter@1c55f277, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@16f7b4af]
+
+2020-05-20 21:27:45,860 INFO Exposing 2 endpoint(s) beneath base path '/actuator'
+
+2020-05-20 21:27:45,947 INFO Initializing ExecutorService 'taskScheduler'
+
+2020-05-20 21:27:46,258 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
+
+2020-05-20 21:27:46,269 INFO Started Nacos in 33.35 seconds (JVM running for 35.605)
+
+2020-05-20 21:27:46,269 INFO Nacos Log files: D:\JetBrains\SpringCloudAlibabaProject\nacos-server-1.0.1\nacos/logs/
+
+2020-05-20 21:27:46,269 INFO Nacos Conf files: D:\JetBrains\SpringCloudAlibabaProject\nacos-server-1.0.1\nacos/conf/
+
+2020-05-20 21:27:46,270 INFO Nacos Data files: D:\JetBrains\SpringCloudAlibabaProject\nacos-server-1.0.1\nacos/data/
+
+2020-05-20 21:27:46,271 INFO Nacos started successfully in stand alone mode.
+
+2020-05-20 21:27:47,992 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2020-05-20 21:27:47,993 INFO Initializing Servlet 'dispatcherServlet'
+
+2020-05-20 21:27:48,009 INFO Completed initialization in 16 ms
+
+2020-05-20 21:28:42,594 INFO Expired JWT token.
+
+2020-05-20 21:28:42,633 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-05-20 21:37:42,743 INFO [capacityManagement] start correct usage
+
+2020-05-20 21:37:42,903 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-05-20 21:37:43,061 WARN clearConfigHistory start
+
+2020-05-20 21:47:42,910 INFO [capacityManagement] start correct usage
+
+2020-05-20 21:47:43,012 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-05-20 21:47:43,175 WARN clearConfigHistory start
+
+2020-05-20 21:57:43,027 INFO [capacityManagement] start correct usage
+
+2020-05-20 21:57:43,102 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-05-20 21:57:43,187 WARN clearConfigHistory start
+
+2020-05-20 22:07:43,134 INFO [capacityManagement] start correct usage
+
+2020-05-20 22:07:43,255 WARN clearConfigHistory start
+
+2020-05-20 22:07:43,269 INFO [capacityManagement] end correct usage, cost: 0s
+

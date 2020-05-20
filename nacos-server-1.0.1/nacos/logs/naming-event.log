@@ -1,0 +1,38 @@
+2020-05-20 21:46:23,431 INFO DEFAULT_GROUP@@conter-center {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-20 21:46:23,443 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@conter-center, ips: 192.168.56.1:8081_true,
+
+2020-05-20 21:46:26,347 INFO DEFAULT_GROUP@@user-center {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-20 21:46:26,347 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-center, ips: 192.168.56.1:8080_true,
+
+2020-05-20 21:55:48,763 INFO {POS} {IP-DISABLED} valid: 192.168.56.1:8081@DEFAULT@DEFAULT_GROUP@@conter-center, region: unknown, msg: client timeout after 15000, last beat: 1589982931870
+
+2020-05-20 21:56:04,942 INFO DEFAULT_GROUP@@conter-center {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:8081:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-05-20 21:56:04,942 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@conter-center, ips: 
+
+2020-05-20 21:56:07,244 INFO DEFAULT_GROUP@@conter-center {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-20 21:56:07,244 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@conter-center, ips: 192.168.56.1:8081_true,
+
+2020-05-20 22:06:57,388 INFO {POS} {IP-DISABLED} valid: 192.168.56.1:8080@DEFAULT@DEFAULT_GROUP@@user-center, region: unknown, msg: client timeout after 15000, last beat: 1589983601355
+
+2020-05-20 22:07:00,838 INFO {POS} {IP-DISABLED} valid: 192.168.56.1:8081@DEFAULT@DEFAULT_GROUP@@conter-center, region: unknown, msg: client timeout after 15000, last beat: 1589983602217
+
+2020-05-20 22:07:07,303 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@conter-center, ips: 192.168.56.1:8081_false,
+
+2020-05-20 22:07:11,962 INFO service: DEFAULT_GROUP@@conter-center {POS} {IP-ENABLED} valid: 192.168.56.1:8081@DEFAULT, region: unknown, msg: client beat ok
+
+2020-05-20 22:07:12,454 INFO DEFAULT_GROUP@@user-center {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:8080:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-05-20 22:07:12,454 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-center, ips: 
+
+2020-05-20 22:07:32,857 INFO DEFAULT_GROUP@@user-center {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-20 22:07:32,857 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-center, ips: 192.168.56.1:8080_true,
+
+2020-05-20 22:07:58,996 INFO DEFAULT_GROUP@@user-center {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:8083:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-20 22:07:58,997 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-center, ips: 192.168.56.1:8083_true,192.168.56.1:8080_true,
+

@@ -6,6 +6,13 @@ spring:
       # >= 6.x: com.mysql.cj.jdbc.Driver
       # <= 5.x: com.mysql.jdbc.Driver
     driver-class-name: com.mysql.jdbc.Driver
+  cloud:
+    nacos:
+      discovery:
+        #指定nacous server地址
+        server-addr: localhost:8848
+  application:
+    name: conter-center
 server:
   port: 8081
 management:

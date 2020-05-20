@@ -14,9 +14,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.zhx</groupId>
-    <artifactId>usercenter</artifactId>
+    <artifactId>user-center</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>usercenter</name>
+    <name>user-center</name>
     <description>用户中心</description>
 
     <properties>
@@ -48,6 +48,10 @@
             <artifactId>lombok</artifactId>
             <version>1.18.8</version>
             <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-alibaba-nacos-discovery</artifactId>
         </dependency>
     </dependencies>
 

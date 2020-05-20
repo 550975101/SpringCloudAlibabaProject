@@ -368,3 +368,987 @@
 
 2020-05-20 22:12:46,049 INFO [NACOS-PUSH] clientMap size: 6
 
+2020-05-20 22:13:06,156 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:13:26,157 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:13:46,159 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:14:06,160 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:14:26,162 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:14:46,163 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:15:06,164 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:15:26,165 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:15:46,166 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:16:06,167 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:16:26,172 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:16:46,173 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:17:06,180 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:17:26,181 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:17:46,183 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:18:06,184 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:18:26,185 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:18:46,187 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:19:06,190 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:19:26,220 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:19:46,235 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:20:06,237 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:20:26,239 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:20:46,240 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:21:06,271 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:21:26,284 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:21:46,339 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:22:06,345 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:22:26,347 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:22:46,349 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:23:06,352 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:23:26,355 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:23:46,368 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:24:06,376 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:24:26,377 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:24:46,378 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:25:06,380 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:25:26,388 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:25:46,407 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:26:06,424 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:26:26,425 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:26:46,439 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:27:06,474 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:27:26,476 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:27:46,738 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:28:06,745 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:28:26,806 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:28:39,026 INFO DEFAULT_GROUP@@conter-center is changed, add it to push queue.
+
+2020-05-20 22:28:39,030 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:49822, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,49822,576300393115800
+
+2020-05-20 22:28:39,030 INFO send udp packet: 192.168.200.1,49822,576300393115800
+
+2020-05-20 22:28:39,035 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:54700, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,54700,576300393115800
+
+2020-05-20 22:28:39,035 INFO send udp packet: 192.168.200.1,54700,576300393115800
+
+2020-05-20 22:28:39,048 INFO received ack: {"type": "push-ack", "lastRefTime":"576300393115800", "data":""} from: 192.168.200.1:, cost: 49822 ms, unacked: 18, total push: 1
+
+2020-05-20 22:28:39,048 INFO received ack: {"type": "push-ack", "lastRefTime":"576300393115800", "data":""} from: 192.168.200.1:, cost: 54700 ms, unacked: 13, total push: 0
+
+2020-05-20 22:28:46,836 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-05-20 22:28:54,489 INFO DEFAULT_GROUP@@conter-center is changed, add it to push queue.
+
+2020-05-20 22:28:54,511 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:49822, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,49822,576315877011900
+
+2020-05-20 22:28:54,511 INFO send udp packet: 192.168.200.1,49822,576315877011900
+
+2020-05-20 22:28:54,511 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:54700, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,54700,576315877011900
+
+2020-05-20 22:28:54,511 INFO send udp packet: 192.168.200.1,54700,576315877011900
+
+2020-05-20 22:28:54,525 INFO received ack: {"type": "push-ack", "lastRefTime":"576315877011900", "data":""} from: 192.168.200.1:, cost: 54700 ms, unacked: 14, total push: 1
+
+2020-05-20 22:28:54,532 INFO received ack: {"type": "push-ack", "lastRefTime":"576315877011900", "data":""} from: 192.168.200.1:, cost: 49822 ms, unacked: 21, total push: 0
+
+2020-05-20 22:29:06,769 INFO DEFAULT_GROUP@@conter-center is changed, add it to push queue.
+
+2020-05-20 22:29:06,769 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:63415, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,63415,576328134983100
+
+2020-05-20 22:29:06,769 INFO send udp packet: 192.168.200.1,63415,576328134983100
+
+2020-05-20 22:29:06,771 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:49822, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,49822,576328134983100
+
+2020-05-20 22:29:06,771 INFO send udp packet: 192.168.200.1,49822,576328134983100
+
+2020-05-20 22:29:06,772 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:54700, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,54700,576328134983100
+
+2020-05-20 22:29:06,772 INFO send udp packet: 192.168.200.1,54700,576328134983100
+
+2020-05-20 22:29:06,775 INFO received ack: {"type": "push-ack", "lastRefTime":"576328134983100", "data":""} from: 192.168.200.1:, cost: 63415 ms, unacked: 6, total push: 2
+
+2020-05-20 22:29:06,775 INFO received ack: {"type": "push-ack", "lastRefTime":"576328134983100", "data":""} from: 192.168.200.1:, cost: 54700 ms, unacked: 3, total push: 1
+
+2020-05-20 22:29:06,777 INFO received ack: {"type": "push-ack", "lastRefTime":"576328134983100", "data":""} from: 192.168.200.1:, cost: 49822 ms, unacked: 6, total push: 0
+
+2020-05-20 22:29:06,838 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:29:26,838 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:29:46,842 INFO [NACOS-PUSH] clientMap size: 5
+
+2020-05-20 22:30:06,844 INFO [NACOS-PUSH] clientMap size: 5
+
+2020-05-20 22:30:26,845 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:30:46,853 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:31:06,854 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:31:26,855 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:31:46,859 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-05-20 22:31:49,500 INFO DEFAULT_GROUP@@conter-center is changed, add it to push queue.
+
+2020-05-20 22:31:49,501 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:49822, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,49822,576490866247500
+
+2020-05-20 22:31:49,502 INFO send udp packet: 192.168.200.1,49822,576490866247500
+
+2020-05-20 22:31:49,503 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:54700, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,54700,576490866247500
+
+2020-05-20 22:31:49,503 INFO send udp packet: 192.168.200.1,54700,576490866247500
+
+2020-05-20 22:31:49,506 INFO received ack: {"type": "push-ack", "lastRefTime":"576490866247500", "data":""} from: 192.168.200.1:, cost: 54700 ms, unacked: 3, total push: 1
+
+2020-05-20 22:31:49,506 INFO received ack: {"type": "push-ack", "lastRefTime":"576490866247500", "data":""} from: 192.168.200.1:, cost: 49822 ms, unacked: 4, total push: 0
+
+2020-05-20 22:31:59,875 INFO DEFAULT_GROUP@@conter-center is changed, add it to push queue.
+
+2020-05-20 22:31:59,876 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:59304, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,59304,576501241874600
+
+2020-05-20 22:31:59,876 INFO send udp packet: 192.168.200.1,59304,576501241874600
+
+2020-05-20 22:31:59,878 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:49822, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,49822,576501241874600
+
+2020-05-20 22:31:59,878 INFO send udp packet: 192.168.200.1,49822,576501241874600
+
+2020-05-20 22:31:59,878 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:54700, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,54700,576501241874600
+
+2020-05-20 22:31:59,878 INFO send udp packet: 192.168.200.1,54700,576501241874600
+
+2020-05-20 22:31:59,882 INFO received ack: {"type": "push-ack", "lastRefTime":"576501241874600", "data":""} from: 192.168.200.1:, cost: 49822 ms, unacked: 4, total push: 2
+
+2020-05-20 22:31:59,883 INFO received ack: {"type": "push-ack", "lastRefTime":"576501241874600", "data":""} from: 192.168.200.1:, cost: 59304 ms, unacked: 7, total push: 1
+
+2020-05-20 22:31:59,884 INFO received ack: {"type": "push-ack", "lastRefTime":"576501241874600", "data":""} from: 192.168.200.1:, cost: 54700 ms, unacked: 6, total push: 0
+
+2020-05-20 22:32:04,507 INFO DEFAULT_GROUP@@conter-center is changed, add it to push queue.
+
+2020-05-20 22:32:04,514 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:59304, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,59304,576505873575400
+
+2020-05-20 22:32:04,514 INFO send udp packet: 192.168.200.1,59304,576505873575400
+
+2020-05-20 22:32:04,514 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:49822, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,49822,576505873575400
+
+2020-05-20 22:32:04,514 INFO send udp packet: 192.168.200.1,49822,576505873575400
+
+2020-05-20 22:32:04,515 INFO received ack: {"type": "push-ack", "lastRefTime":"576505873575400", "data":""} from: 192.168.200.1:, cost: 59304 ms, unacked: 1, total push: 1
+
+2020-05-20 22:32:04,516 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:54700, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,54700,576505873575400
+
+2020-05-20 22:32:04,516 INFO send udp packet: 192.168.200.1,54700,576505873575400
+
+2020-05-20 22:32:04,517 INFO received ack: {"type": "push-ack", "lastRefTime":"576505873575400", "data":""} from: 192.168.200.1:, cost: 49822 ms, unacked: 3, total push: 1
+
+2020-05-20 22:32:04,519 INFO received ack: {"type": "push-ack", "lastRefTime":"576505873575400", "data":""} from: 192.168.200.1:, cost: 54700 ms, unacked: 3, total push: 0
+
+2020-05-20 22:32:06,861 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:32:26,863 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:32:39,670 INFO DEFAULT_GROUP@@conter-center is changed, add it to push queue.
+
+2020-05-20 22:32:39,677 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:49822, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,49822,576541035654200
+
+2020-05-20 22:32:39,677 INFO send udp packet: 192.168.200.1,49822,576541035654200
+
+2020-05-20 22:32:39,677 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:54700, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,54700,576541035654200
+
+2020-05-20 22:32:39,677 INFO send udp packet: 192.168.200.1,54700,576541035654200
+
+2020-05-20 22:32:39,678 INFO received ack: {"type": "push-ack", "lastRefTime":"576541035654200", "data":""} from: 192.168.200.1:, cost: 49822 ms, unacked: 1, total push: 1
+
+2020-05-20 22:32:39,679 INFO received ack: {"type": "push-ack", "lastRefTime":"576541035654200", "data":""} from: 192.168.200.1:, cost: 54700 ms, unacked: 2, total push: 0
+
+2020-05-20 22:32:45,414 INFO DEFAULT_GROUP@@conter-center is changed, add it to push queue.
+
+2020-05-20 22:32:45,415 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:49822, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,49822,576546781055300
+
+2020-05-20 22:32:45,415 INFO send udp packet: 192.168.200.1,49822,576546781055300
+
+2020-05-20 22:32:45,417 INFO received ack: {"type": "push-ack", "lastRefTime":"576546781055300", "data":""} from: 192.168.200.1:, cost: 49822 ms, unacked: 2, total push: 0
+
+2020-05-20 22:32:45,418 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:53793, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,53793,576546781055300
+
+2020-05-20 22:32:45,418 INFO send udp packet: 192.168.200.1,53793,576546781055300
+
+2020-05-20 22:32:45,418 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:54700, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,54700,576546781055300
+
+2020-05-20 22:32:45,418 INFO send udp packet: 192.168.200.1,54700,576546781055300
+
+2020-05-20 22:32:45,422 INFO received ack: {"type": "push-ack", "lastRefTime":"576546781055300", "data":""} from: 192.168.200.1:, cost: 54700 ms, unacked: 4, total push: 1
+
+2020-05-20 22:32:45,423 INFO received ack: {"type": "push-ack", "lastRefTime":"576546781055300", "data":""} from: 192.168.200.1:, cost: 53793 ms, unacked: 5, total push: 0
+
+2020-05-20 22:32:46,865 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:32:50,085 INFO DEFAULT_GROUP@@conter-center is changed, add it to push queue.
+
+2020-05-20 22:32:50,085 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:49822, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,49822,576551451511900
+
+2020-05-20 22:32:50,086 INFO send udp packet: 192.168.200.1,49822,576551451511900
+
+2020-05-20 22:32:50,086 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:53793, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,53793,576551451511900
+
+2020-05-20 22:32:50,086 INFO send udp packet: 192.168.200.1,53793,576551451511900
+
+2020-05-20 22:32:50,086 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:54700, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,54700,576551451511900
+
+2020-05-20 22:32:50,086 INFO send udp packet: 192.168.200.1,54700,576551451511900
+
+2020-05-20 22:32:50,088 INFO received ack: {"type": "push-ack", "lastRefTime":"576551451511900", "data":""} from: 192.168.200.1:, cost: 53793 ms, unacked: 2, total push: 2
+
+2020-05-20 22:32:50,089 INFO received ack: {"type": "push-ack", "lastRefTime":"576551451511900", "data":""} from: 192.168.200.1:, cost: 49822 ms, unacked: 3, total push: 1
+
+2020-05-20 22:32:50,090 INFO received ack: {"type": "push-ack", "lastRefTime":"576551451511900", "data":""} from: 192.168.200.1:, cost: 54700 ms, unacked: 4, total push: 0
+
+2020-05-20 22:33:06,865 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:33:26,866 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:33:46,868 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:34:06,870 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:34:26,871 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-05-20 22:34:39,721 INFO DEFAULT_GROUP@@conter-center is changed, add it to push queue.
+
+2020-05-20 22:34:39,721 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:49822, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,49822,576661087468400
+
+2020-05-20 22:34:39,721 INFO send udp packet: 192.168.200.1,49822,576661087468400
+
+2020-05-20 22:34:39,721 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:54700, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,54700,576661087468400
+
+2020-05-20 22:34:39,721 INFO send udp packet: 192.168.200.1,54700,576661087468400
+
+2020-05-20 22:34:39,723 INFO received ack: {"type": "push-ack", "lastRefTime":"576661087468400", "data":""} from: 192.168.200.1:, cost: 54700 ms, unacked: 2, total push: 1
+
+2020-05-20 22:34:39,728 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:51634, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,51634,576661087468400
+
+2020-05-20 22:34:39,729 INFO send udp packet: 192.168.200.1,51634,576661087468400
+
+2020-05-20 22:34:39,729 INFO received ack: {"type": "push-ack", "lastRefTime":"576661087468400", "data":""} from: 192.168.200.1:, cost: 49822 ms, unacked: 8, total push: 1
+
+2020-05-20 22:34:39,738 INFO received ack: {"type": "push-ack", "lastRefTime":"576661087468400", "data":""} from: 192.168.200.1:, cost: 51634 ms, unacked: 9, total push: 0
+
+2020-05-20 22:34:44,829 INFO DEFAULT_GROUP@@conter-center is changed, add it to push queue.
+
+2020-05-20 22:34:44,829 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:49822, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,49822,576666195036600
+
+2020-05-20 22:34:44,829 INFO send udp packet: 192.168.200.1,49822,576666195036600
+
+2020-05-20 22:34:44,836 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:54700, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,54700,576666195036600
+
+2020-05-20 22:34:44,836 INFO send udp packet: 192.168.200.1,54700,576666195036600
+
+2020-05-20 22:34:44,837 INFO received ack: {"type": "push-ack", "lastRefTime":"576666195036600", "data":""} from: 192.168.200.1:, cost: 49822 ms, unacked: 8, total push: 1
+
+2020-05-20 22:34:44,935 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:51634, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,51634,576666195036600
+
+2020-05-20 22:34:44,935 INFO send udp packet: 192.168.200.1,51634,576666195036600
+
+2020-05-20 22:34:44,942 INFO received ack: {"type": "push-ack", "lastRefTime":"576666195036600", "data":""} from: 192.168.200.1:, cost: 54700 ms, unacked: 106, total push: 1
+
+2020-05-20 22:34:44,944 INFO received ack: {"type": "push-ack", "lastRefTime":"576666195036600", "data":""} from: 192.168.200.1:, cost: 51634 ms, unacked: 9, total push: 0
+
+2020-05-20 22:34:46,873 INFO [NACOS-PUSH] clientMap size: 5
+
+2020-05-20 22:35:06,879 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:35:26,880 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:35:46,882 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:36:06,885 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:36:26,886 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:36:46,887 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:37:06,888 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:37:26,890 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:37:46,890 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:38:06,892 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:38:26,893 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:38:46,895 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:39:06,897 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:39:26,904 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:39:46,905 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:40:06,906 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:40:26,913 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:40:46,922 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:41:06,924 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:41:26,928 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:41:46,930 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:42:06,930 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:42:26,932 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:42:46,933 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:43:06,934 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:43:26,936 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:43:46,936 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:44:06,937 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:44:26,939 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:44:46,940 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:45:06,941 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:45:26,943 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:45:46,944 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:46:06,945 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:46:26,947 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:46:46,950 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:47:06,952 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:47:26,960 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:47:46,961 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:48:06,967 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:48:26,970 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:48:46,971 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:49:06,972 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:49:26,974 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:49:46,983 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:50:06,989 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:50:25,262 INFO DEFAULT_GROUP@@conter-center is changed, add it to push queue.
+
+2020-05-20 22:50:25,263 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:49822, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,49822,577606628992100
+
+2020-05-20 22:50:25,263 INFO send udp packet: 192.168.200.1,49822,577606628992100
+
+2020-05-20 22:50:25,264 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:54700, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,54700,577606628992100
+
+2020-05-20 22:50:25,264 INFO send udp packet: 192.168.200.1,54700,577606628992100
+
+2020-05-20 22:50:25,270 INFO received ack: {"type": "push-ack", "lastRefTime":"577606628992100", "data":""} from: 192.168.200.1:, cost: 54700 ms, unacked: 6, total push: 1
+
+2020-05-20 22:50:25,276 INFO received ack: {"type": "push-ack", "lastRefTime":"577606628992100", "data":""} from: 192.168.200.1:, cost: 49822 ms, unacked: 13, total push: 0
+
+2020-05-20 22:50:26,995 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-05-20 22:50:35,763 INFO DEFAULT_GROUP@@conter-center is changed, add it to push queue.
+
+2020-05-20 22:50:35,763 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:49822, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,49822,577617129105300
+
+2020-05-20 22:50:35,763 INFO send udp packet: 192.168.200.1,49822,577617129105300
+
+2020-05-20 22:50:35,764 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:54700, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,54700,577617129105300
+
+2020-05-20 22:50:35,764 INFO send udp packet: 192.168.200.1,54700,577617129105300
+
+2020-05-20 22:50:35,765 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:55061, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,55061,577617129105300
+
+2020-05-20 22:50:35,765 INFO send udp packet: 192.168.200.1,55061,577617129105300
+
+2020-05-20 22:50:35,765 INFO received ack: {"type": "push-ack", "lastRefTime":"577617129105300", "data":""} from: 192.168.200.1:, cost: 49822 ms, unacked: 2, total push: 2
+
+2020-05-20 22:50:35,767 INFO received ack: {"type": "push-ack", "lastRefTime":"577617129105300", "data":""} from: 192.168.200.1:, cost: 54700 ms, unacked: 3, total push: 1
+
+2020-05-20 22:50:35,769 INFO received ack: {"type": "push-ack", "lastRefTime":"577617129105300", "data":""} from: 192.168.200.1:, cost: 55061 ms, unacked: 4, total push: 0
+
+2020-05-20 22:50:40,298 INFO DEFAULT_GROUP@@conter-center is changed, add it to push queue.
+
+2020-05-20 22:50:40,299 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:49822, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,49822,577621664554600
+
+2020-05-20 22:50:40,299 INFO send udp packet: 192.168.200.1,49822,577621664554600
+
+2020-05-20 22:50:40,301 INFO received ack: {"type": "push-ack", "lastRefTime":"577621664554600", "data":""} from: 192.168.200.1:, cost: 49822 ms, unacked: 2, total push: 0
+
+2020-05-20 22:50:40,305 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:54700, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,54700,577621664554600
+
+2020-05-20 22:50:40,305 INFO send udp packet: 192.168.200.1,54700,577621664554600
+
+2020-05-20 22:50:40,306 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:55061, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,55061,577621664554600
+
+2020-05-20 22:50:40,306 INFO send udp packet: 192.168.200.1,55061,577621664554600
+
+2020-05-20 22:50:40,307 INFO received ack: {"type": "push-ack", "lastRefTime":"577621664554600", "data":""} from: 192.168.200.1:, cost: 54700 ms, unacked: 2, total push: 1
+
+2020-05-20 22:50:40,309 INFO received ack: {"type": "push-ack", "lastRefTime":"577621664554600", "data":""} from: 192.168.200.1:, cost: 55061 ms, unacked: 3, total push: 0
+
+2020-05-20 22:50:47,003 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:51:07,003 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:51:27,005 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:51:47,008 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:52:07,010 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:52:27,012 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:52:47,013 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:53:07,014 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:53:27,015 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:53:47,017 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:54:07,019 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:54:27,026 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:54:47,027 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:55:07,035 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:55:27,036 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:55:47,038 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:56:07,039 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:56:27,041 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:56:47,043 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:57:07,044 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:57:27,046 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:57:47,050 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:58:07,052 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:58:27,062 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:58:47,063 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:59:07,074 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:59:27,079 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 22:59:47,080 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:00:07,082 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:00:27,083 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:00:47,085 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:01:07,085 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:01:27,087 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:01:47,096 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:02:07,097 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:02:27,098 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:02:47,099 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:03:07,101 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:03:27,103 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:03:47,105 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:04:07,106 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:04:27,108 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:04:47,109 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-05-20 23:05:06,113 INFO DEFAULT_GROUP@@conter-center is changed, add it to push queue.
+
+2020-05-20 23:05:06,126 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:49822, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,49822,578487485834500
+
+2020-05-20 23:05:06,127 INFO send udp packet: 192.168.200.1,49822,578487485834500
+
+2020-05-20 23:05:06,128 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:54700, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,54700,578487485834500
+
+2020-05-20 23:05:06,128 INFO send udp packet: 192.168.200.1,54700,578487485834500
+
+2020-05-20 23:05:06,138 INFO received ack: {"type": "push-ack", "lastRefTime":"578487485834500", "data":""} from: 192.168.200.1:, cost: 49822 ms, unacked: 11, total push: 1
+
+2020-05-20 23:05:06,144 INFO received ack: {"type": "push-ack", "lastRefTime":"578487485834500", "data":""} from: 192.168.200.1:, cost: 54700 ms, unacked: 16, total push: 0
+
+2020-05-20 23:05:07,121 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-05-20 23:05:16,200 INFO DEFAULT_GROUP@@conter-center is changed, add it to push queue.
+
+2020-05-20 23:05:16,208 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:49822, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,49822,578497574219500
+
+2020-05-20 23:05:16,208 INFO send udp packet: 192.168.200.1,49822,578497574219500
+
+2020-05-20 23:05:16,208 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:54700, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,54700,578497574219500
+
+2020-05-20 23:05:16,208 INFO send udp packet: 192.168.200.1,54700,578497574219500
+
+2020-05-20 23:05:16,221 INFO received ack: {"type": "push-ack", "lastRefTime":"578497574219500", "data":""} from: 192.168.200.1:, cost: 49822 ms, unacked: 13, total push: 1
+
+2020-05-20 23:05:16,230 INFO received ack: {"type": "push-ack", "lastRefTime":"578497574219500", "data":""} from: 192.168.200.1:, cost: 54700 ms, unacked: 22, total push: 0
+
+2020-05-20 23:05:27,124 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-05-20 23:05:28,381 INFO DEFAULT_GROUP@@conter-center is changed, add it to push queue.
+
+2020-05-20 23:05:28,383 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:49822, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,49822,578509747355300
+
+2020-05-20 23:05:28,384 INFO send udp packet: 192.168.200.1,49822,578509747355300
+
+2020-05-20 23:05:28,388 INFO received ack: {"type": "push-ack", "lastRefTime":"578509747355300", "data":""} from: 192.168.200.1:, cost: 49822 ms, unacked: 4, total push: 0
+
+2020-05-20 23:05:28,389 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:58463, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,58463,578509747355300
+
+2020-05-20 23:05:28,390 INFO send udp packet: 192.168.200.1,58463,578509747355300
+
+2020-05-20 23:05:28,397 INFO received ack: {"type": "push-ack", "lastRefTime":"578509747355300", "data":""} from: 192.168.200.1:, cost: 58463 ms, unacked: 7, total push: 0
+
+2020-05-20 23:05:32,658 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2020-05-20 23:05:32,667 INFO serviceName: DEFAULT_GROUP@@user-center changed, schedule push for: 192.168.200.1:49822, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,49822,578514024631400
+
+2020-05-20 23:05:32,667 INFO send udp packet: 192.168.200.1,49822,578514024631400
+
+2020-05-20 23:05:32,667 INFO serviceName: DEFAULT_GROUP@@user-center changed, schedule push for: 192.168.200.1:58463, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,58463,578514024631400
+
+2020-05-20 23:05:32,667 INFO send udp packet: 192.168.200.1,58463,578514024631400
+
+2020-05-20 23:05:32,672 INFO received ack: {"type": "push-ack", "lastRefTime":"578514024631400", "data":""} from: 192.168.200.1:, cost: 58463 ms, unacked: 5, total push: 1
+
+2020-05-20 23:05:32,674 INFO received ack: {"type": "push-ack", "lastRefTime":"578514024631400", "data":""} from: 192.168.200.1:, cost: 49822 ms, unacked: 7, total push: 0
+
+2020-05-20 23:05:38,795 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2020-05-20 23:05:38,796 INFO serviceName: DEFAULT_GROUP@@user-center changed, schedule push for: 192.168.200.1:58465, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,58465,578520161500600
+
+2020-05-20 23:05:38,796 INFO send udp packet: 192.168.200.1,58465,578520161500600
+
+2020-05-20 23:05:38,796 INFO serviceName: DEFAULT_GROUP@@user-center changed, schedule push for: 192.168.200.1:49822, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,49822,578520161500600
+
+2020-05-20 23:05:38,796 INFO send udp packet: 192.168.200.1,49822,578520161500600
+
+2020-05-20 23:05:38,797 INFO serviceName: DEFAULT_GROUP@@user-center changed, schedule push for: 192.168.200.1:58463, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,58463,578520161500600
+
+2020-05-20 23:05:38,797 INFO send udp packet: 192.168.200.1,58463,578520161500600
+
+2020-05-20 23:05:38,802 INFO received ack: {"type": "push-ack", "lastRefTime":"578520161500600", "data":""} from: 192.168.200.1:, cost: 58463 ms, unacked: 5, total push: 2
+
+2020-05-20 23:05:38,803 INFO received ack: {"type": "push-ack", "lastRefTime":"578520161500600", "data":""} from: 192.168.200.1:, cost: 58465 ms, unacked: 7, total push: 1
+
+2020-05-20 23:05:42,578 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2020-05-20 23:05:42,585 INFO serviceName: DEFAULT_GROUP@@user-center changed, schedule push for: 192.168.200.1:58465, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,58465,578523944152000
+
+2020-05-20 23:05:42,585 INFO send udp packet: 192.168.200.1,58465,578523944152000
+
+2020-05-20 23:05:42,589 INFO serviceName: DEFAULT_GROUP@@user-center changed, schedule push for: 192.168.200.1:49822, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,49822,578523944152000
+
+2020-05-20 23:05:42,589 INFO send udp packet: 192.168.200.1,49822,578523944152000
+
+2020-05-20 23:05:42,589 INFO serviceName: DEFAULT_GROUP@@user-center changed, schedule push for: 192.168.200.1:58463, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,58463,578523944152000
+
+2020-05-20 23:05:42,590 INFO send udp packet: 192.168.200.1,58463,578523944152000
+
+2020-05-20 23:05:42,589 INFO received ack: {"type": "push-ack", "lastRefTime":"578523944152000", "data":""} from: 192.168.200.1:, cost: 58465 ms, unacked: 4, total push: 2
+
+2020-05-20 23:05:42,594 INFO received ack: {"type": "push-ack", "lastRefTime":"578523944152000", "data":""} from: 192.168.200.1:, cost: 58463 ms, unacked: 3, total push: 2
+
+2020-05-20 23:05:47,127 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-05-20 23:05:49,166 INFO retry to push data, key: 192.168.200.1,49822,578520161500600
+
+2020-05-20 23:05:49,166 INFO send udp packet: 192.168.200.1,49822,578520161500600
+
+2020-05-20 23:05:52,603 INFO retry to push data, key: 192.168.200.1,49822,578523944152000
+
+2020-05-20 23:05:52,604 INFO send udp packet: 192.168.200.1,49822,578523944152000
+
+2020-05-20 23:05:57,661 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2020-05-20 23:05:57,662 INFO serviceName: DEFAULT_GROUP@@user-center changed, schedule push for: 192.168.200.1:58465, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,58465,578539027439000
+
+2020-05-20 23:05:57,662 INFO send udp packet: 192.168.200.1,58465,578539027439000
+
+2020-05-20 23:05:57,662 INFO serviceName: DEFAULT_GROUP@@user-center changed, schedule push for: 192.168.200.1:58463, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,58463,578539027439000
+
+2020-05-20 23:05:57,662 INFO send udp packet: 192.168.200.1,58463,578539027439000
+
+2020-05-20 23:05:57,666 INFO received ack: {"type": "push-ack", "lastRefTime":"578539027439000", "data":""} from: 192.168.200.1:, cost: 58465 ms, unacked: 4, total push: 3
+
+2020-05-20 23:05:57,668 INFO received ack: {"type": "push-ack", "lastRefTime":"578539027439000", "data":""} from: 192.168.200.1:, cost: 58463 ms, unacked: 6, total push: 2
+
+2020-05-20 23:05:59,308 INFO retry to push data, key: 192.168.200.1,49822,578520161500600
+
+2020-05-20 23:05:59,308 WARN max re-push times reached, retry times 2, key: 192.168.200.1,49822,578520161500600
+
+2020-05-20 23:06:02,606 INFO retry to push data, key: 192.168.200.1,49822,578523944152000
+
+2020-05-20 23:06:02,606 WARN max re-push times reached, retry times 2, key: 192.168.200.1,49822,578523944152000
+
+2020-05-20 23:06:05,603 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2020-05-20 23:06:05,603 INFO serviceName: DEFAULT_GROUP@@user-center changed, schedule push for: 192.168.200.1:58465, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,58465,578546969232700
+
+2020-05-20 23:06:05,603 INFO send udp packet: 192.168.200.1,58465,578546969232700
+
+2020-05-20 23:06:05,604 INFO serviceName: DEFAULT_GROUP@@user-center changed, schedule push for: 192.168.200.1:63137, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,63137,578546969232700
+
+2020-05-20 23:06:05,605 INFO send udp packet: 192.168.200.1,63137,578546969232700
+
+2020-05-20 23:06:05,605 INFO serviceName: DEFAULT_GROUP@@user-center changed, schedule push for: 192.168.200.1:58463, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,58463,578546969232700
+
+2020-05-20 23:06:05,605 INFO send udp packet: 192.168.200.1,58463,578546969232700
+
+2020-05-20 23:06:05,608 INFO received ack: {"type": "push-ack", "lastRefTime":"578546969232700", "data":""} from: 192.168.200.1:, cost: 58463 ms, unacked: 3, total push: 2
+
+2020-05-20 23:06:05,609 INFO received ack: {"type": "push-ack", "lastRefTime":"578546969232700", "data":""} from: 192.168.200.1:, cost: 58465 ms, unacked: 6, total push: 1
+
+2020-05-20 23:06:05,615 INFO received ack: {"type": "push-ack", "lastRefTime":"578546969232700", "data":""} from: 192.168.200.1:, cost: 63137 ms, unacked: 10, total push: 0
+
+2020-05-20 23:06:07,129 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:06:08,299 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2020-05-20 23:06:08,299 INFO serviceName: DEFAULT_GROUP@@user-center changed, schedule push for: 192.168.200.1:58465, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,58465,578549665225400
+
+2020-05-20 23:06:08,306 INFO send udp packet: 192.168.200.1,58465,578549665225400
+
+2020-05-20 23:06:08,307 INFO serviceName: DEFAULT_GROUP@@user-center changed, schedule push for: 192.168.200.1:63137, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,63137,578549665225400
+
+2020-05-20 23:06:08,307 INFO send udp packet: 192.168.200.1,63137,578549665225400
+
+2020-05-20 23:06:08,308 INFO serviceName: DEFAULT_GROUP@@user-center changed, schedule push for: 192.168.200.1:58463, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,58463,578549665225400
+
+2020-05-20 23:06:08,308 INFO send udp packet: 192.168.200.1,58463,578549665225400
+
+2020-05-20 23:06:08,312 INFO received ack: {"type": "push-ack", "lastRefTime":"578549665225400", "data":""} from: 192.168.200.1:, cost: 58465 ms, unacked: 6, total push: 2
+
+2020-05-20 23:06:08,313 INFO received ack: {"type": "push-ack", "lastRefTime":"578549665225400", "data":""} from: 192.168.200.1:, cost: 63137 ms, unacked: 6, total push: 1
+
+2020-05-20 23:06:08,314 INFO received ack: {"type": "push-ack", "lastRefTime":"578549665225400", "data":""} from: 192.168.200.1:, cost: 58463 ms, unacked: 6, total push: 0
+
+2020-05-20 23:06:27,130 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:06:47,131 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:07:07,133 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:07:27,134 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:07:47,138 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:08:07,140 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:08:27,148 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:08:47,149 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:09:07,149 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:09:27,151 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:09:47,152 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:10:07,153 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:10:27,154 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:10:47,155 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:11:07,166 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:11:27,167 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:11:47,169 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:12:07,170 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:12:27,172 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:12:47,179 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:13:07,179 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:13:27,181 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:13:47,182 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:14:07,183 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:14:27,184 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:14:47,184 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:15:07,186 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:15:27,188 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:15:47,189 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:16:07,191 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:16:27,244 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:16:47,245 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:17:07,247 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:17:27,254 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:17:47,256 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:18:07,257 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:18:27,259 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:18:47,260 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:19:07,268 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:19:27,269 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:19:47,270 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:20:07,287 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:20:27,289 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:20:47,294 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:21:07,310 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:21:27,334 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:21:47,336 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:22:07,345 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:22:27,345 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-05-20 23:22:36,998 INFO DEFAULT_GROUP@@conter-center is changed, add it to push queue.
+
+2020-05-20 23:22:37,003 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:58465, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,58465,579538366700700
+
+2020-05-20 23:22:37,003 INFO send udp packet: 192.168.200.1,58465,579538366700700
+
+2020-05-20 23:22:37,008 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:63137, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,63137,579538366700700
+
+2020-05-20 23:22:37,009 INFO send udp packet: 192.168.200.1,63137,579538366700700
+
+2020-05-20 23:22:37,014 INFO received ack: {"type": "push-ack", "lastRefTime":"579538366700700", "data":""} from: 192.168.200.1:, cost: 63137 ms, unacked: 5, total push: 1
+
+2020-05-20 23:22:37,014 INFO received ack: {"type": "push-ack", "lastRefTime":"579538366700700", "data":""} from: 192.168.200.1:, cost: 58465 ms, unacked: 11, total push: 0
+
+2020-05-20 23:22:47,347 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-05-20 23:22:52,256 INFO DEFAULT_GROUP@@conter-center is changed, add it to push queue.
+
+2020-05-20 23:22:52,258 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:58465, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,58465,579553623579000
+
+2020-05-20 23:22:52,258 INFO send udp packet: 192.168.200.1,58465,579553623579000
+
+2020-05-20 23:22:52,265 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:63137, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,63137,579553623579000
+
+2020-05-20 23:22:52,265 INFO send udp packet: 192.168.200.1,63137,579553623579000
+
+2020-05-20 23:22:52,274 INFO received ack: {"type": "push-ack", "lastRefTime":"579553623579000", "data":""} from: 192.168.200.1:, cost: 58465 ms, unacked: 16, total push: 1
+
+2020-05-20 23:22:52,275 INFO received ack: {"type": "push-ack", "lastRefTime":"579553623579000", "data":""} from: 192.168.200.1:, cost: 63137 ms, unacked: 10, total push: 0
+
+2020-05-20 23:23:07,348 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-05-20 23:23:13,312 INFO DEFAULT_GROUP@@conter-center is changed, add it to push queue.
+
+2020-05-20 23:23:13,312 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:62872, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,62872,579574679008600
+
+2020-05-20 23:23:13,314 INFO send udp packet: 192.168.200.1,62872,579574679008600
+
+2020-05-20 23:23:13,315 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:58465, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,58465,579574679008600
+
+2020-05-20 23:23:13,315 INFO send udp packet: 192.168.200.1,58465,579574679008600
+
+2020-05-20 23:23:13,316 INFO serviceName: DEFAULT_GROUP@@conter-center changed, schedule push for: 192.168.200.1:63137, agent: Nacos-Java-Client:v1.0.0, key: 192.168.200.1,63137,579574679008600
+
+2020-05-20 23:23:13,319 INFO send udp packet: 192.168.200.1,63137,579574679008600
+
+2020-05-20 23:23:13,319 INFO received ack: {"type": "push-ack", "lastRefTime":"579574679008600", "data":""} from: 192.168.200.1:, cost: 58465 ms, unacked: 4, total push: 2
+
+2020-05-20 23:23:13,319 INFO received ack: {"type": "push-ack", "lastRefTime":"579574679008600", "data":""} from: 192.168.200.1:, cost: 62872 ms, unacked: 5, total push: 1
+
+2020-05-20 23:23:13,322 INFO received ack: {"type": "push-ack", "lastRefTime":"579574679008600", "data":""} from: 192.168.200.1:, cost: 63137 ms, unacked: 5, total push: 0
+
+2020-05-20 23:23:27,356 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:23:47,357 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:24:07,359 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:24:27,360 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:24:47,362 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:25:07,364 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:25:27,367 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:25:47,369 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:26:07,371 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:26:27,373 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:26:47,374 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:27:07,375 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:27:27,377 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:27:47,379 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:28:07,380 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:28:27,382 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:28:47,390 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:29:07,392 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:29:27,393 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:29:47,394 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:30:07,393 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:30:27,395 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:30:47,396 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:31:07,399 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:31:27,400 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:31:47,401 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:32:07,402 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:32:27,403 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:32:47,404 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:33:07,406 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:33:27,414 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:33:47,415 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:34:07,416 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:34:27,417 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:34:47,418 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:35:07,420 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:35:27,421 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:35:47,422 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:36:07,423 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:36:27,424 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:36:47,433 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:37:07,440 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:37:27,442 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:37:47,443 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:38:07,452 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:38:27,454 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:38:47,462 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:39:07,463 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:39:27,468 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:39:47,472 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-05-20 23:40:07,473 INFO [NACOS-PUSH] clientMap size: 6
+

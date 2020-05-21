@@ -2,9 +2,6 @@ package com.zhx.contentcenter.domain.dto.user;
 
 import lombok.Data;
 
-import javax.persistence.Column;
-import javax.persistence.GeneratedValue;
-import javax.persistence.Id;
 import java.util.Date;
 
 @Data

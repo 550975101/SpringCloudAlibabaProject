@@ -1,0 +1,62 @@
+2021-03-25 13:30:42,954 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2021-03-25 13:30:42,955 INFO listen for service meta change
+
+2021-03-25 13:30:47,719 INFO member change, new members [Member{ip='10.0.13.43', port=8848, state=UP, extendInfo={lastRefreshTime=1616650247718, raftPort=7848, version=2.0.0}}]
+
+2021-03-25 13:30:47,741 INFO [NACOS-DISTRO] healthy server list changed, old: [10.0.13.43:8848], new: [10.0.13.43:8848]
+
+2021-03-25 13:33:33,719 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2021-03-25 13:33:33,720 INFO listen for service meta change
+
+2021-03-25 13:33:38,527 INFO [NACOS-DISTRO] healthy server list changed, old: [10.0.13.43:8848], new: [10.0.13.43:8848]
+
+2021-03-25 13:33:38,527 INFO member change, new members [Member{ip='10.0.13.43', port=8848, state=UP, extendInfo={lastRefreshTime=1616650418527, raftPort=7848, version=2.0.0}}]
+
+2021-03-25 13:54:07,969 INFO Client connection 10.0.13.43:8081#true connect
+
+2021-03-25 13:54:07,975 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='conter-center', ephemeral=true, revision=0}, 10.0.13.43:8081#true
+
+2021-03-25 13:54:37,894 INFO Client connection 10.0.13.43:65114#true connect
+
+2021-03-25 13:55:34,915 INFO Client connection 10.0.13.43:49743#true connect
+
+2021-03-25 13:55:34,935 INFO Client connection 10.0.13.43:8080#true connect
+
+2021-03-25 13:55:34,935 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=0}, 10.0.13.43:8080#true
+
+2021-03-25 13:56:02,549 INFO Client connection 10.0.13.43:63065#true connect
+
+2021-03-25 13:56:02,558 INFO Client connection 10.0.13.43:8083#true connect
+
+2021-03-25 13:56:02,558 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, 10.0.13.43:8083#true
+
+2021-03-25 14:02:42,006 INFO Client connection 10.0.13.43:65114#true disconnect, remove instances and subscribers
+
+2021-03-25 14:02:45,093 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=2}, ip: {"ip":"10.0.13.43","port":8080,"healthy":false,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"10.0.13.43#8080#DEFAULT#DEFAULT_GROUP@@user-center"},"lastHeartBeatTime":1616652134641,"metadataId":"10.0.13.43:8080:DEFAULT"}
+
+2021-03-25 14:02:45,093 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=2}, 10.0.13.43:8080#true
+
+2021-03-25 14:02:47,007 INFO Client connection 10.0.13.43:63065#true disconnect, remove instances and subscribers
+
+2021-03-25 14:02:47,007 INFO Client connection 10.0.13.43:8080#true disconnect, remove instances and subscribers
+
+2021-03-25 14:02:47,008 INFO Client connection 10.0.13.43:49743#true disconnect, remove instances and subscribers
+
+2021-03-25 14:02:47,660 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=3}, ip: {"ip":"10.0.13.43","port":8083,"healthy":false,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"10.0.13.43#8083#DEFAULT#DEFAULT_GROUP@@user-center"},"lastHeartBeatTime":1616652137323,"metadataId":"10.0.13.43:8083:DEFAULT"}
+
+2021-03-25 14:02:47,660 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=3}, 10.0.13.43:8083#true
+
+2021-03-25 14:02:48,216 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='conter-center', ephemeral=true, revision=1}, ip: {"ip":"10.0.13.43","port":8081,"healthy":false,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"10.0.13.43#8081#DEFAULT#DEFAULT_GROUP@@conter-center"},"lastHeartBeatTime":1616652137719,"metadataId":"10.0.13.43:8081:DEFAULT"}
+
+2021-03-25 14:02:48,216 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='conter-center', ephemeral=true, revision=1}, 10.0.13.43:8081#true
+
+2021-03-25 14:02:52,010 INFO Client connection 10.0.13.43:8081#true disconnect, remove instances and subscribers
+
+2021-03-25 14:02:52,010 INFO Client connection 10.0.13.43:8083#true disconnect, remove instances and subscribers
+
+2021-03-25 14:04:10,292 WARN namespace : public, [DEFAULT_GROUP@@conter-center] services are automatically cleaned
+
+2021-03-25 14:04:10,293 WARN namespace : public, [DEFAULT_GROUP@@user-center] services are automatically cleaned
+

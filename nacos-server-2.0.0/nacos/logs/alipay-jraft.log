@@ -1,0 +1,104 @@
+2021-03-25 13:30:46,038 INFO SPI service [com.alipay.sofa.jraft.JRaftServiceFactory - com.alipay.sofa.jraft.core.DefaultJRaftServiceFactory] loading.
+
+2021-03-25 13:30:46,410 INFO SPI service [com.alipay.sofa.jraft.rpc.RaftRpcFactory - com.alipay.sofa.jraft.rpc.impl.GrpcRaftRpcFactory] loading.
+
+2021-03-25 13:30:46,622 INFO SPI service [com.alipay.sofa.jraft.util.timer.RaftTimerFactory - com.alipay.sofa.jraft.util.timer.DefaultRaftTimerFactory] loading.
+
+2021-03-25 13:30:46,630 INFO The number of active nodes increment to 1.
+
+2021-03-25 13:33:36,733 INFO SPI service [com.alipay.sofa.jraft.JRaftServiceFactory - com.alipay.sofa.jraft.core.DefaultJRaftServiceFactory] loading.
+
+2021-03-25 13:33:37,084 INFO SPI service [com.alipay.sofa.jraft.rpc.RaftRpcFactory - com.alipay.sofa.jraft.rpc.impl.GrpcRaftRpcFactory] loading.
+
+2021-03-25 13:33:37,283 INFO SPI service [com.alipay.sofa.jraft.util.timer.RaftTimerFactory - com.alipay.sofa.jraft.util.timer.DefaultRaftTimerFactory] loading.
+
+2021-03-25 13:33:37,291 INFO The number of active nodes increment to 1.
+
+2021-03-25 13:33:40,118 INFO Starts FSMCaller successfully.
+
+2021-03-25 13:33:40,136 WARN No data for snapshot reader D:\study\SpringCloudAlibabaProject\nacos-server-2.0.0\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot.
+
+2021-03-25 13:33:40,169 INFO Node <naming_persistent_service_v2/10.0.13.43:7848> init, term=0, lastLogId=LogId [index=0, term=0], conf=10.0.13.43:7848, oldConf=.
+
+2021-03-25 13:33:40,171 INFO Node <naming_persistent_service_v2/10.0.13.43:7848> start vote and grant vote self, term=0.
+
+2021-03-25 13:33:40,210 WARN Unable to fsync directory D:\study\SpringCloudAlibabaProject\nacos-server-2.0.0\nacos\data\protocol\raft\naming_persistent_service_v2\meta-data on windows.
+
+2021-03-25 13:33:40,217 INFO Save raft meta, path=D:\study\SpringCloudAlibabaProject\nacos-server-2.0.0\nacos\data\protocol\raft\naming_persistent_service_v2\meta-data, term=1, votedFor=10.0.13.43:7848, cost time=37 ms
+
+2021-03-25 13:33:40,218 INFO Node <naming_persistent_service_v2/10.0.13.43:7848> become leader of group, term=1, conf=10.0.13.43:7848, oldConf=.
+
+2021-03-25 13:33:40,223 INFO -Djraft.recyclers.maxCapacityPerThread: 4096.
+
+2021-03-25 13:33:40,226 WARN RPC server is not started in RaftGroupService.
+
+2021-03-25 13:33:40,226 INFO Start the RaftGroupService successfully.
+
+2021-03-25 13:33:40,253 INFO onLeaderStart: term=1.
+
+2021-03-25 13:33:40,281 INFO The number of active nodes increment to 2.
+
+2021-03-25 13:33:40,346 INFO Starts FSMCaller successfully.
+
+2021-03-25 13:33:40,346 WARN No data for snapshot reader D:\study\SpringCloudAlibabaProject\nacos-server-2.0.0\nacos\data\protocol\raft\naming_instance_metadata\snapshot.
+
+2021-03-25 13:33:40,349 INFO Node <naming_instance_metadata/10.0.13.43:7848> init, term=0, lastLogId=LogId [index=0, term=0], conf=10.0.13.43:7848, oldConf=.
+
+2021-03-25 13:33:40,349 INFO Node <naming_instance_metadata/10.0.13.43:7848> start vote and grant vote self, term=0.
+
+2021-03-25 13:33:40,356 WARN Unable to fsync directory D:\study\SpringCloudAlibabaProject\nacos-server-2.0.0\nacos\data\protocol\raft\naming_instance_metadata\meta-data on windows.
+
+2021-03-25 13:33:40,356 INFO Save raft meta, path=D:\study\SpringCloudAlibabaProject\nacos-server-2.0.0\nacos\data\protocol\raft\naming_instance_metadata\meta-data, term=1, votedFor=10.0.13.43:7848, cost time=7 ms
+
+2021-03-25 13:33:40,356 INFO Node <naming_instance_metadata/10.0.13.43:7848> become leader of group, term=1, conf=10.0.13.43:7848, oldConf=.
+
+2021-03-25 13:33:40,356 WARN RPC server is not started in RaftGroupService.
+
+2021-03-25 13:33:40,356 INFO Start the RaftGroupService successfully.
+
+2021-03-25 13:33:40,362 INFO onLeaderStart: term=1.
+
+2021-03-25 13:33:40,366 INFO The number of active nodes increment to 3.
+
+2021-03-25 13:33:40,488 WARN Channel in TRANSIENT_FAILURE state: 10.0.13.43:7848.
+
+2021-03-25 13:33:40,488 WARN Channel in SHUTDOWN state: 10.0.13.43:7848.
+
+2021-03-25 13:33:40,497 INFO Starts FSMCaller successfully.
+
+2021-03-25 13:33:40,497 WARN No data for snapshot reader D:\study\SpringCloudAlibabaProject\nacos-server-2.0.0\nacos\data\protocol\raft\naming_service_metadata\snapshot.
+
+2021-03-25 13:33:40,498 INFO Node <naming_service_metadata/10.0.13.43:7848> init, term=0, lastLogId=LogId [index=0, term=0], conf=10.0.13.43:7848, oldConf=.
+
+2021-03-25 13:33:40,498 INFO Node <naming_service_metadata/10.0.13.43:7848> start vote and grant vote self, term=0.
+
+2021-03-25 13:33:40,506 WARN Unable to fsync directory D:\study\SpringCloudAlibabaProject\nacos-server-2.0.0\nacos\data\protocol\raft\naming_service_metadata\meta-data on windows.
+
+2021-03-25 13:33:40,506 INFO Save raft meta, path=D:\study\SpringCloudAlibabaProject\nacos-server-2.0.0\nacos\data\protocol\raft\naming_service_metadata\meta-data, term=1, votedFor=10.0.13.43:7848, cost time=8 ms
+
+2021-03-25 13:33:40,506 INFO Node <naming_service_metadata/10.0.13.43:7848> become leader of group, term=1, conf=10.0.13.43:7848, oldConf=.
+
+2021-03-25 13:33:40,506 WARN RPC server is not started in RaftGroupService.
+
+2021-03-25 13:33:40,506 INFO Start the RaftGroupService successfully.
+
+2021-03-25 13:33:40,526 INFO onLeaderStart: term=1.
+
+2021-03-25 13:55:04,230 WARN Unable to fsync directory D:\study\SpringCloudAlibabaProject\nacos-server-2.0.0\nacos\data\protocol\raft\naming_instance_metadata\snapshot\temp on windows.
+
+2021-03-25 13:55:04,230 INFO Deleting snapshot D:\study\SpringCloudAlibabaProject\nacos-server-2.0.0\nacos\data\protocol\raft\naming_instance_metadata\snapshot\snapshot_1.
+
+2021-03-25 13:55:04,230 INFO Renaming D:\study\SpringCloudAlibabaProject\nacos-server-2.0.0\nacos\data\protocol\raft\naming_instance_metadata\snapshot\temp to D:\study\SpringCloudAlibabaProject\nacos-server-2.0.0\nacos\data\protocol\raft\naming_instance_metadata\snapshot\snapshot_1.
+
+2021-03-25 13:55:51,194 WARN Unable to fsync directory D:\study\SpringCloudAlibabaProject\nacos-server-2.0.0\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot\temp on windows.
+
+2021-03-25 13:55:51,194 INFO Deleting snapshot D:\study\SpringCloudAlibabaProject\nacos-server-2.0.0\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot\snapshot_1.
+
+2021-03-25 13:55:51,194 INFO Renaming D:\study\SpringCloudAlibabaProject\nacos-server-2.0.0\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot\temp to D:\study\SpringCloudAlibabaProject\nacos-server-2.0.0\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot\snapshot_1.
+
+2021-03-25 13:59:10,310 WARN Unable to fsync directory D:\study\SpringCloudAlibabaProject\nacos-server-2.0.0\nacos\data\protocol\raft\naming_service_metadata\snapshot\temp on windows.
+
+2021-03-25 13:59:10,310 INFO Deleting snapshot D:\study\SpringCloudAlibabaProject\nacos-server-2.0.0\nacos\data\protocol\raft\naming_service_metadata\snapshot\snapshot_1.
+
+2021-03-25 13:59:10,310 INFO Renaming D:\study\SpringCloudAlibabaProject\nacos-server-2.0.0\nacos\data\protocol\raft\naming_service_metadata\snapshot\temp to D:\study\SpringCloudAlibabaProject\nacos-server-2.0.0\nacos\data\protocol\raft\naming_service_metadata\snapshot\snapshot_1.
+

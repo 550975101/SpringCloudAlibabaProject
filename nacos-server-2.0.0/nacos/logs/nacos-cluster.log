@@ -1,0 +1,74 @@
+2021-03-25 13:10:10,313 INFO Current addressing mode selection : AddressServerMemberLookup
+
+2021-03-25 13:10:10,407 ERROR [serverlist] exception, error : caused: jmenv.tbsite.net;
+
+2021-03-25 13:10:10,408 ERROR [serverlist] exception, error : caused: jmenv.tbsite.net;
+
+2021-03-25 13:10:10,408 ERROR [serverlist] exception, error : caused: jmenv.tbsite.net;
+
+2021-03-25 13:10:10,408 ERROR [serverlist] exception, error : caused: jmenv.tbsite.net;
+
+2021-03-25 13:10:10,408 ERROR [serverlist] exception, error : caused: jmenv.tbsite.net;
+
+2021-03-25 13:11:51,426 INFO Current addressing mode selection : AddressServerMemberLookup
+
+2021-03-25 13:11:51,479 ERROR [serverlist] exception, error : caused: jmenv.tbsite.net;
+
+2021-03-25 13:11:51,479 ERROR [serverlist] exception, error : caused: jmenv.tbsite.net;
+
+2021-03-25 13:11:51,479 ERROR [serverlist] exception, error : caused: jmenv.tbsite.net;
+
+2021-03-25 13:11:51,480 ERROR [serverlist] exception, error : caused: jmenv.tbsite.net;
+
+2021-03-25 13:11:51,480 ERROR [serverlist] exception, error : caused: jmenv.tbsite.net;
+
+2021-03-25 13:16:32,532 INFO Current addressing mode selection : AddressServerMemberLookup
+
+2021-03-25 13:16:32,590 ERROR [serverlist] exception, error : caused: jmenv.tbsite.net;
+
+2021-03-25 13:16:32,590 ERROR [serverlist] exception, error : caused: jmenv.tbsite.net;
+
+2021-03-25 13:16:32,591 ERROR [serverlist] exception, error : caused: jmenv.tbsite.net;
+
+2021-03-25 13:16:32,591 ERROR [serverlist] exception, error : caused: jmenv.tbsite.net;
+
+2021-03-25 13:16:32,591 ERROR [serverlist] exception, error : caused: jmenv.tbsite.net;
+
+2021-03-25 13:21:11,826 INFO Current addressing mode selection : AddressServerMemberLookup
+
+2021-03-25 13:21:11,870 ERROR [serverlist] exception, error : caused: jmenv.tbsite.net;
+
+2021-03-25 13:21:11,871 ERROR [serverlist] exception, error : caused: jmenv.tbsite.net;
+
+2021-03-25 13:21:11,871 ERROR [serverlist] exception, error : caused: jmenv.tbsite.net;
+
+2021-03-25 13:21:11,871 ERROR [serverlist] exception, error : caused: jmenv.tbsite.net;
+
+2021-03-25 13:21:11,872 ERROR [serverlist] exception, error : caused: jmenv.tbsite.net;
+
+2021-03-25 13:27:21,183 INFO Current addressing mode selection : AddressServerMemberLookup
+
+2021-03-25 13:27:21,215 ERROR [serverlist] exception, error : caused: jmenv.tbsite.net;
+
+2021-03-25 13:27:21,216 ERROR [serverlist] exception, error : caused: jmenv.tbsite.net;
+
+2021-03-25 13:27:21,216 ERROR [serverlist] exception, error : caused: jmenv.tbsite.net;
+
+2021-03-25 13:27:21,216 ERROR [serverlist] exception, error : caused: jmenv.tbsite.net;
+
+2021-03-25 13:27:21,218 ERROR [serverlist] exception, error : caused: jmenv.tbsite.net;
+
+2021-03-25 13:30:42,590 INFO Current addressing mode selection : StandaloneMemberLookup
+
+2021-03-25 13:30:42,595 WARN [serverlist] updated to : [Member{ip='10.0.13.43', port=8848, state=UP, extendInfo={raftPort=7848}}]
+
+2021-03-25 13:30:43,827 WARN [ClusterRpcClientProxy] success to refresh cluster rpc client on start up,members =[] 
+
+2021-03-25 13:33:33,407 INFO Current addressing mode selection : StandaloneMemberLookup
+
+2021-03-25 13:33:33,412 WARN [serverlist] updated to : [Member{ip='10.0.13.43', port=8848, state=UP, extendInfo={raftPort=7848}}]
+
+2021-03-25 13:33:34,643 WARN [ClusterRpcClientProxy] success to refresh cluster rpc client on start up,members =[] 
+
+2021-03-25 13:33:44,637 INFO This node is ready to provide external services
+

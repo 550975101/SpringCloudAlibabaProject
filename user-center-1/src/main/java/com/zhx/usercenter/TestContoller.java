@@ -19,7 +19,7 @@ public class TestContoller {
     private UserMapper userMapper;
 
     @GetMapping("/test")
-    public List<User>  testInsert() {
+    public List<User> testInsert() {
         User user = new User();
         user.setAvatarUrl("xxxxx");
         user.setBonus(100);

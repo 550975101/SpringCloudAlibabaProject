@@ -2,21 +2,15 @@ package com.zhx.contentcenter.service.content;
 
 import com.zhx.contentcenter.dao.content.ShareMapper;
 import com.zhx.contentcenter.domain.dto.content.ShareDTO;
-import com.zhx.contentcenter.domain.entity.content.Share;
 import com.zhx.contentcenter.domain.dto.user.UserDTO;
+import com.zhx.contentcenter.domain.entity.content.Share;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.cloud.client.ServiceInstance;
 import org.springframework.cloud.client.discovery.DiscoveryClient;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
-import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.client.RestTemplate;
-
-import java.util.List;
-import java.util.concurrent.ThreadLocalRandom;
-import java.util.stream.Collectors;
 
 @Service
 @Slf4j
@@ -30,7 +24,6 @@ public class ShareService {
 
     @Autowired
     private DiscoveryClient discoveryClient;
-
 
 
     public ShareDTO findById(Integer id) {
@@ -115,15 +108,12 @@ public class ShareService {
 //        shareDTO.setWxNickname(userDTO.getWxNickname());
 //        return shareDTO;
 //    }
-
-
-
     public static void main(String[] args) {
         RestTemplate restTemplate = new RestTemplate();
         //用Http get方法去请求 并且返回一个对象
         //String forObject = restTemplate.getForObject("http://localhost:8080/users/1", String.class);
         //支持rest风格
-       //String forObject = restTemplate.getForObject("http://localhost:8080/users/{id}", String.class,1);
+        //String forObject = restTemplate.getForObject("http://localhost:8080/users/{id}", String.class,1);
         //getForEntity 能获取响应码啥的那些  功能更强 一般情况等价
         ResponseEntity<String> forEntity = restTemplate.getForEntity("http://localhost:8080/users/{id}", String.class, 1);
         if (forEntity.getStatusCodeValue() == 200) {

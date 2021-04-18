@@ -1,8 +1,5 @@
 package com.zhx.usercenter;
 
-import org.junit.Test;
-import org.springframework.boot.test.context.SpringBootTest;
-
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
@@ -15,34 +12,31 @@ public class UsercenterApplicationTests {
         FileOutputStream fos = null;
         byte[] buffer = new byte[1024];
         int temp = 0;
-        try{
+        try {
             fis = new FileInputStream("D:\\Tencent\\聊天记录\\550975101\\FileRecv\\audio_only.mp3");
             fos = new FileOutputStream("D:\\Tencent\\聊天记录\\550975101\\FileRecv\\啦啦啦.mp3");
-            while(true){
-                temp = fis.read(buffer,0,buffer.length);
-                if(temp == -1){
+            while (true) {
+                temp = fis.read(buffer, 0, buffer.length);
+                if (temp == -1) {
                     break;
                 }
                 File file = new File("D:\\Tencent\\聊天记录\\550975101\\FileRecv\\啦啦啦.mp3");
 
-                if (file.length()<=47185902) {
-                    fos.write(buffer,0,temp);
+                if (file.length() <= 47185902) {
+                    fos.write(buffer, 0, temp);
                 }
             }
-        }
-        catch(Exception e){
+        } catch (Exception e) {
             System.out.println(e);
-        }
-        finally{
-            try{
+        } finally {
+            try {
                 fis.close();
                 fos.close();
-            }
-            catch(Exception e2){
+            } catch (Exception e2) {
                 System.out.println(e2);
             }
         }
 
     }
-    }
+}
 

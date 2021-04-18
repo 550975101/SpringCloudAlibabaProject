@@ -1,10 +1,14 @@
 package com.zhx.contentcenter.domain.entity.content;
 
-import java.util.Date;
-import javax.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
+
+import javax.persistence.Column;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+import javax.persistence.Table;
+import java.util.Date;
 
 @Getter
 @Setter
@@ -74,7 +78,7 @@ public class Share {
     private String downloadUrl;
 
     /**
-     * 下载数 
+     * 下载数
      */
     @Column(name = "buy_count")
     private Integer buyCount;

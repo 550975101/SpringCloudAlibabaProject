@@ -23,3 +23,7 @@ management:
   endpoint:
     health:
     show-details: always
+ribbon:
+  eager-load:
+    enabled: false
+    clients: user-center

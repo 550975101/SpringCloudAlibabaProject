@@ -9,8 +9,9 @@ spring:
   cloud:
     nacos:
       discovery:
-        #Ö¸¶¨nacous serverµØÖ·
+        #Ö¸ï¿½ï¿½nacous serverï¿½ï¿½Ö·
         server-addr: localhost:8848
+        cluster-name: NJ
   application:
     name: user-center
 server:

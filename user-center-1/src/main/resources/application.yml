@@ -11,6 +11,7 @@ spring:
       discovery:
         #指定nacous server地址
         server-addr: localhost:8848
+        cluster-name: BJ
   application:
     name: user-center
 server:

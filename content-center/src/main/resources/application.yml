@@ -27,3 +27,7 @@ ribbon:
   eager-load:
     enabled: false
     clients: user-center
+#与UserCenterRibbonConfiguration类配置同等效果
+#user-center:
+#  ribbon:
+#      NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule
